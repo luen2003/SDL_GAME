@@ -1,4 +1,4 @@
-# SDL Game - Water Pipe
+# SDL Game - Rotating Water Pipe Puzzle
 ## Introduction
 
 Water Pipe is a puzzle game developed using C++, BFS Algorithm and the SDL Library.
